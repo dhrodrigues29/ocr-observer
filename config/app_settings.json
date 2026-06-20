@@ -2,5 +2,8 @@
   "capture_fps": 10,
   "debug_mode": true,
   "ocr_enabled": true,
-  "dashboard_refresh_ms": 1000
+  "dashboard_refresh_ms": 1000,
+  "state_confidence_threshold": 0.75,
+  "object_confidence_threshold": 0.8,
+  "score_mismatch_tolerance": 0
 }

@@ -1,3 +1,29 @@
 {
-  "objects": []
+  "objects": [
+    {
+      "id": "red_poison",
+      "display_name": "Red Poison",
+      "expected_score_value": 0,
+      "rarity": "danger",
+      "visual_description": "Red harmful object that ends the game when touched.",
+      "category": "poison",
+      "template_path": "templates/objects/red_poison.png",
+      "color_range": {
+        "lower": [0, 80, 80],
+        "upper": [10, 255, 255]
+      },
+      "priority": 100
+    },
+    {
+      "id": "basic_food",
+      "display_name": "Basic Food",
+      "expected_score_value": 1,
+      "rarity": "common",
+      "visual_description": "Default positive food object.",
+      "category": "positive_food",
+      "template_path": "templates/objects/basic_food.png",
+      "color_range": null,
+      "priority": 10
+    }
+  ]
 }
