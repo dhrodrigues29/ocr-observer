@@ -1,0 +1,6 @@
+{
+  "capture_fps": 10,
+  "debug_mode": true,
+  "ocr_enabled": true,
+  "dashboard_refresh_ms": 1000
+}

@@ -1,0 +1,9 @@
+mss
+opencv-python
+numpy
+pandas
+pytesseract
+streamlit
+plotly
+pydantic
+python-dateutil
